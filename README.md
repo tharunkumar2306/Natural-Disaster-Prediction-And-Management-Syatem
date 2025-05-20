@@ -1,1 +1,1 @@
-# Natural-Disaster-Prediction-And-Management-Syatem
+# Natural-Disaster-Prediction-And-Management-System
